@@ -35,3 +35,8 @@ section{
     background-repeat: no-repeat;
 
 }
+.dream-big{
+    background-image: url(image/2nd.img/images\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+   }
